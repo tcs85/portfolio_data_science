@@ -28,3 +28,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+https://tcs85.github.io/portfolio_data_science/
